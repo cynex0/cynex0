@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/cynex0?tab=repositories#gh-dark-mode-only">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=cynex0&custom_title=My%20Stats&hide=stars&rank_icon=percentile&theme=great-gatsby&bg_color=00000000&border_color=ffa726#gh-dark-mode-only">
+<a href="https://github.com/cynex0?tab=repositories#responsive-card-theme#gh-dark-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats-lyart-chi.vercel.app/api?username=cynex0&custom_title=My%20GitHub%20Stats&hide=stars&include_all_commits=true&theme=dark#gh-dark-mode-only">
 </a>
 
-<a href="https://github.com/cynex0?tab=repositories#gh-dark-mode-only">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynex0&layout=compact&theme=great-gatsby&bg_color=00000000&border_color=ffa726#gh-dark-mode-only)](https://github.com/cynex0?tab=repositories#gh-dark-mode-only">
+<a href="https://github.com/cynex0?tab=repositories#responsive-card-theme#gh-dark-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats-lyart-chi.vercel.app/api/top-langs?username=cynex0&layout=compact&theme=dark#gh-dark-mode-only">
+</a>
+
+<a href="https://github.com/cynex0?tab=repositories#responsive-card-theme#gh-light-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats-lyart-chi.vercel.app/api?username=cynex0&custom_title=My%20GitHub%20Stats&hide=stars&include_all_commits=true&theme=defaultk#gh-light-mode-only">
+</a>
+
+<a href="https://github.com/cynex0?tab=repositories#responsive-card-theme#gh-light-mode-only">
+  <img height=180 align="center" src="https://github-readme-stats-lyart-chi.vercel.app/api/top-langs?username=cynex0&layout=compact&theme=default#gh-light-mode-only">
 </a>
